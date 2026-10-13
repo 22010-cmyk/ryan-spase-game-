@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"LINK_TO_TUTORIALS",
+  "name":"LINK_TO_TUTORIALS",
+  "parent":{
+    "name":"new_rock_bKHNB",
+    "path":"new_rock_bKHNB.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

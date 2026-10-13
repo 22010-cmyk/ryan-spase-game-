@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"LINK_TO_TUTORIALS",
+  "name":"LINK_TO_TUTORIALS",
+  "parent":{
+    "name":"rock_game_part4_Part1",
+    "path":"rock_game_part4_Part1.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
